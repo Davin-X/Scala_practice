@@ -23,14 +23,14 @@ anaconda ( jupyter setup with python),
   
 3- install spylon kernel for jupyter note-book
 
-  # Step 1: Install spylon kernel
-  pip install spylon-kernel
+     # Step 1: Install spylon kernel
+       pip install spylon-kernel
 
-  # Step 2: create a kernel spec
-  python -m spylon_kernel install
+     # Step 2: create a kernel spec
+      python -m spylon_kernel install
 
-  # Step 3: start jupyter notebook 
-  jupyter notebook
+    # Step 3: start jupyter notebook 
+     jupyter notebook
 
-  # Step 4: create a new  spylon note-book  
+    # Step 4: create a new  spylon note-book  
   
