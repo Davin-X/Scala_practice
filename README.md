@@ -34,3 +34,8 @@ anaconda ( jupyter setup with python),
 
     # Step 4: create a new  spylon note-book  
   
+  
+ Installing and setting up Intellij for scala 
+ https://www.jetbrains.com/help/idea/discover-intellij-idea-for-scala.html#scala_plugin
+ 
+ 
