@@ -1,5 +1,5 @@
 # How to Install and Run Spark in Jupyter Notebook on Windows
-=>When I write PySpark code, I use Jupyter notebook to run my code. In this, I will show you how to install and run PySpark locally in Jupyter Notebook on Windows.
+=>When I write Spark or scala code, I use Jupyter notebook to run my code. In this, I will show you how to install and run Spark locally in Jupyter Notebook on Windows.
 Items needed Spark distribution from spark.apache.org
 download Spark => https://archive.apache.org/dist/spark/spark-2.4.4/spark-2.4.4-bin-hadoop2.7.tgz
 
